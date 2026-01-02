@@ -2,9 +2,10 @@
 
 Data from ageofempires.com leaderboards.
 
-Need to be updated manually by running [z_aoe2_rating_percentile.go](z_aoe2_rating_percentile.go),  
-the [index.html](index.html) will be updated to newest data after running the script.
+The chart is updated daily by [this GitHub Actions workflow](
+https://github.com/daominah/age_of_empires_ror_hd/actions/workflows/daily-aoe2-rating-update.yml).
 
-On 2025-10-31, the data looks like this:
+Charts of older date can be selected to view.
 
-[![AoE2DE rating distribution](screenshot_202510.jpg)](screenshot_202510.jpg)
+[This site](https://aoe2rating.github.io/) screenshot:
+[![AoE2DE rating distribution](screenshot_202601.png)](screenshot_202601.png)
